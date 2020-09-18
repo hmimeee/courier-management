@@ -8,7 +8,7 @@ Import the database file in the root of this package to any database (pre-create
 
 ## Database
 Update database details inside this file.
-```bash
+```php
 File: lib/database.php
 ```
 
