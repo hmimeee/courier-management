@@ -7,6 +7,7 @@ Courier Management is a PHP based application for dealing with courier system.
 Import the database file in the root of this package to any database (pre-created) or create as courier (Which is default). Login details below:
 
 ## Database
+Update database details inside this file.
 ```bash
 File: lib/database.php
 ```
